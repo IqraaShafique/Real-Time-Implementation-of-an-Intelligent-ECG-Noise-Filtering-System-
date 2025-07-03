@@ -1,4 +1,4 @@
-# eal-Time-Implementation-of-an-Intelligent-ECG-Noise-Filtering-System-
+# Real-Time-Implementation-of-an-Intelligent-ECG-Noise-Filtering-System-
 This report includes the design and implementation of a real-time ECG noise filtering system 
 utilizing MATLAB's static (IIR elliptic) and adaptive (LMS-based) filtering approaches. The MIT-BIH 
 Arrhythmia Database provided the raw ECG signal, which was purposefully tainted with typical 
